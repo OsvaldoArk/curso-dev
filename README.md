@@ -2,4 +2,5 @@
 
 ## cursodev
 
-* autor: * Osvaldo Souza
+
+**autor:** Osvaldo Souza
